@@ -1,4 +1,4 @@
-## 🛡️ SecureChat: My CIAnR Console Messenger Project
+## 🛡️ SecureChat: Console-Based Secure Chat System
 
 **Course:** Information Security (FAST–NUCES) | **Semester:** Fall 2025
 
